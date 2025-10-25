@@ -1,0 +1,163 @@
+body {
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  color: #434455;
+  background-color: white;
+  font-size: 16px;
+}
+ul,
+ol {
+  list-style-type: none;
+}
+.logo {
+  font-family: "Raleway", sans-serif;
+  color: #4d5ae5;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  line-height: 1.17;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.logo span {
+  color: #2e2f42;
+}
+.link {
+  text-decoration: none;
+  color: #2e2f42;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+}
+.link:hover,
+.link:focus {
+  color: #404bbf;
+}
+.address {
+  font-style: normal;
+}
+.contact-link {
+  color: currentColor;
+  text-decoration: none;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+}
+.contact-link:hover,
+.contact-link:focus {
+  color: #404bbf;
+}
+.service {
+  background-color: #2e2f42;
+}
+.main-title {
+  color: white;
+  font-size: 56px;
+  font-weight: 700;
+  font-style: bold;
+  letter-spacing: 0.02em;
+  line-height: 1.07;
+  text-transform: uppercase;
+  text-align: center;
+}
+.order-service {
+  background-color: #4d5ae5;
+  color: white;
+  cursor: pointer;
+  text-align: center;
+  font-family: Roboto, sans-serif;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+}
+.order-service:hover,
+.order-service:focus {
+  background-color: #404bbf;
+}
+.third-title {
+  font-weight: 500;
+  font-style: medium;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.text {
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+}
+.our-team {
+  background-color: #f4f4fd;
+}
+.second-title {
+  color: #2e2f42;
+  font-size: 36px;
+  font-weight: 700;
+  font-style: bold;
+  letter-spacing: 0.02em;
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+}
+.set-cards {
+  background-color: #ffffff;
+}
+.emloyers-name {
+  font-weight: 500;
+  font-style: medium;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.emloyers-position {
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+}
+.our-portfolio-title {
+  color: #2e2f42;
+  font-size: 36px;
+  font-weight: 700;
+  font-style: bold;
+  letter-spacing: 0.02em;
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+}
+.picture-naming {
+  font-weight: 500;
+  font-style: medium;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.description {
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+}
+.footer {
+  background-color: #2e2f42;
+}
+.logo-footer {
+  font-family: "Raleway", sans-serif;
+  color: #4d5ae5;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  line-height: 1.17;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.span-footer {
+  color: #f4f4fd;
+}
+.footer-text {
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
