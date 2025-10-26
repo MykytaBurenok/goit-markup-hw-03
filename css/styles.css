@@ -29,10 +29,12 @@ img {
   display: block;
   max-width: 100%;
 }
+.header {
+  border-bottom: solid #e7e9fc;
+}
 .container {
   display: flex;
   width: 1158px;
-  border-bottom: solid #e7e9fc;
   margin: 0 auto;
   padding-left: 15px;
   padding-right: 15px;
@@ -63,7 +65,8 @@ img {
   margin-right: 40px;
 }
 .menu-link {
-  padding: 24 0;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 .link {
   text-decoration: none;
