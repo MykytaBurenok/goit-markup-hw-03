@@ -78,8 +78,13 @@ img {
 }
 .address {
   font-style: normal;
+}
+.address-details {
   display: flex;
   gap: 40px;
+}
+.contact-link:not(:last-child) {
+  margin-right: 40px;
 }
 .contact-link {
   color: currentColor;
