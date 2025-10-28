@@ -33,11 +33,13 @@ img {
   border-bottom: 1px solid #e7e9fc;
 }
 .container {
-  display: flex;
   width: 1158px;
   margin: 0 auto;
   padding-left: 15px;
   padding-right: 15px;
+}
+.header .container {
+  display: flex;
 }
 .navigation {
   display: flex;
@@ -64,15 +66,14 @@ img {
 .menu-link:not(:last-child) {
   margin-right: 40px;
 }
-.menu-link {
-  padding: 24px 0;
-}
 .link {
   text-decoration: none;
   color: #2e2f42;
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.02em;
+  padding: 24px 0;
+  display: block;
 }
 .link:hover,
 .link:focus {
@@ -256,7 +257,7 @@ img {
   line-height: 24px;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  margin-top: 8px;
+  margin-bottom: 8px;
 }
 .description {
   font-weight: 400;
